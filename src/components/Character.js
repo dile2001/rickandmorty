@@ -12,5 +12,5 @@ function Character(character) {
         </div>
 
     )
-};
+}
 export default Character;
